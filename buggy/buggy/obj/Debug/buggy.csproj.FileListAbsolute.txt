@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\buggy\buggy\bin\Debug\buggy.exe.config
+C:\Users\User\source\repos\buggy\buggy\bin\Debug\buggy.exe
+C:\Users\User\source\repos\buggy\buggy\bin\Debug\buggy.pdb
+C:\Users\User\source\repos\buggy\buggy\obj\Debug\buggy.csprojAssemblyReference.cache
+C:\Users\User\source\repos\buggy\buggy\obj\Debug\buggy.Form1.resources
+C:\Users\User\source\repos\buggy\buggy\obj\Debug\buggy.Form2.resources
+C:\Users\User\source\repos\buggy\buggy\obj\Debug\buggy.Properties.Resources.resources
+C:\Users\User\source\repos\buggy\buggy\obj\Debug\buggy.csproj.GenerateResource.cache
+C:\Users\User\source\repos\buggy\buggy\obj\Debug\buggy.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\buggy\buggy\obj\Debug\buggy.exe
+C:\Users\User\source\repos\buggy\buggy\obj\Debug\buggy.pdb
+C:\Users\User\source\repos\buggy\buggy\bin\Debug\MySql.Data.dll
+C:\Users\User\source\repos\buggy\buggy\bin\Debug\Google.Protobuf.dll
+C:\Users\User\source\repos\buggy\buggy\bin\Debug\MySql.Data.xml
+C:\Users\User\source\repos\buggy\buggy\obj\Debug\buggy.csproj.CopyComplete
+C:\Users\User\source\repos\buggy\buggy\obj\Debug\buggy.Form4.resources
+C:\Users\User\source\repos\buggy\buggy\obj\Debug\buggy.moji.resources
